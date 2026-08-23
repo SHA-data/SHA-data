@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ![Automation Pulse](https://raw.githubusercontent.com/SHA-data/SHA-data/output/metrics.automation-pulse.svg)
-![Automation Pulse](https://raw.githubusercontent.com/SHA-data/SHA-data/output/metrics.automation-pulse.svg)
 <!--
 **SHA-data/SHA-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
