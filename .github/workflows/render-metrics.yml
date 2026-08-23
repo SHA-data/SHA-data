@@ -52,7 +52,6 @@ jobs:
           INPUT_OUTPUT_ACTION: commit
           INPUT_COMMITTER_BRANCH: output
           INPUT_COMMITTER_MESSAGE: "chore: refresh automation-pulse [skip ci]"
-          INPUT_PLUGIN_AUTOMATION-PULSE: "yes"
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: >
           docker run --rm
@@ -60,7 +59,7 @@ jobs:
           -e INPUT_USER -e INPUT_TOKEN -e INPUT_BASE
           -e INPUT_FILENAME -e INPUT_OUTPUT_ACTION
           -e INPUT_COMMITTER_BRANCH -e INPUT_COMMITTER_MESSAGE
-          -e "INPUT_PLUGIN_AUTOMATION-PULSE"
+          -e INPUT_PLUGIN_AUTOMATION-PULSE=yes
           -e INPUT_DRYRUN=no -e INPUT_USE_MOCKED_DATA=no
           -e GROQ_API_KEY
           metrics-local
