@@ -44,7 +44,6 @@ jobs:
 
       - name: Render and commit card
         env:
-          GITHUB_ACTIONS: "true"
           GITHUB_REPOSITORY: ${{ github.repository }}
           INPUT_USER: SHA-data
           INPUT_TOKEN: ${{ secrets.METRICS_TOKEN }}
