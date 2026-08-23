@@ -59,7 +59,7 @@ jobs:
           -e INPUT_USER -e INPUT_TOKEN -e INPUT_BASE
           -e INPUT_FILENAME -e INPUT_OUTPUT_ACTION
           -e INPUT_COMMITTER_BRANCH -e INPUT_COMMITTER_MESSAGE
-          -e INPUT_PLUGIN_AUTOMATION-PULSE=yes
+          -e INPUT_PLUGIN_AUTOMATIONPULSE=yes
           -e INPUT_DRYRUN=no -e INPUT_USE_MOCKED_DATA=no
           -e GROQ_API_KEY
           metrics-local
