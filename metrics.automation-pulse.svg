@@ -15,7 +15,7 @@
                 </h2>
                 <div class="row">
                     <section class="automation-pulse">
-                        <div class="summary">Shipped automation‑pulse plugin, fixed env handling, added metrics workflow, cleaned docs, and restored CSS class.</div>
+                        <div class="summary">Shipped automation‑pulse plugin, renamed it, fixed env handling, added metrics workflow, and cleaned up docs.</div>
                         <div class="stats">
                             <span class="badge"><strong>16</strong> commits</span>
                             <span class="badge"><strong>3</strong> repos</span>
