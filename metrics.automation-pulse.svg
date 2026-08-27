@@ -15,11 +15,11 @@
                 </h2>
                 <div class="row">
                     <section class="automation-pulse">
-                        <div class="summary">Shipped automation‑pulse plugin, renamed it, fixed env handling, added metrics workflow, and cleaned up docs.</div>
+                        <div class="summary">Shipped wobbling orb animation, built AI chatbot and voice agent pages, fixed plugin env bugs, added metrics workflow.</div>
                         <div class="stats">
-                            <span class="badge"><strong>16</strong> commits</span>
+                            <span class="badge"><strong>21</strong> commits</span>
                             <span class="badge"><strong>3</strong> repos</span>
-                            <span class="badge language">JavaScript</span>
+                            <span class="badge language">TypeScript</span>
                         </div>
                     </section>
                 </div>
