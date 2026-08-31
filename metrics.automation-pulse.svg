@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="123" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="147" class="">
     <defs>
         <style/>
     </defs>
@@ -15,10 +15,10 @@
                 </h2>
                 <div class="row">
                     <section class="automation-pulse">
-                        <div class="summary">Shipped AI chatbot and voice agent pages, fixed plugin naming bugs, polished hero UI, and cleaned up tests.</div>
+                        <div class="summary">Shipped wobblier orb animation, built AI chatbot and voice‑agent landing pages, fixed hero spacing, polished theme and floaters.</div>
                         <div class="stats">
-                            <span class="badge"><strong>15</strong> commits</span>
-                            <span class="badge"><strong>3</strong> repos</span>
+                            <span class="badge"><strong>6</strong> commits</span>
+                            <span class="badge"><strong>1</strong> repo</span>
                             <span class="badge language">TypeScript</span>
                         </div>
                     </section>
