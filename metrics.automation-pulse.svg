@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="147" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="123" class="">
     <defs>
         <style/>
     </defs>
@@ -15,9 +15,9 @@
                 </h2>
                 <div class="row">
                     <section class="automation-pulse">
-                        <div class="summary">Shipped wobblier orb animation, rebranded chatbot UI, fixed hero spacing, polished floaters, built AI chatbot and voice agent landing pages.</div>
+                        <div class="summary">Adds wobblier orb animation with traveling lumps and a jelly‑pulse effect.</div>
                         <div class="stats">
-                            <span class="badge"><strong>6</strong> commits</span>
+                            <span class="badge"><strong>1</strong> commit</span>
                             <span class="badge"><strong>1</strong> repo</span>
                             <span class="badge language">TypeScript</span>
                         </div>
